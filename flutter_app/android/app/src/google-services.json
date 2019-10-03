@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208849096881",
+    "firebase_url": "https://gemastik-12eb2.firebaseio.com",
+    "project_id": "gemastik-12eb2",
+    "storage_bucket": "gemastik-12eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208849096881:android:31148d1d3bafae3e0b5290",
+        "android_client_info": {
+          "package_name": "com.ui.gemastik12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208849096881-pku9e1p06pmngdae4029l5bi5k7rffq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ui.gemastik12",
+            "certificate_hash": "be6908e90d4820641274e59e4e930eccaf195707"
+          }
+        },
+        {
+          "client_id": "208849096881-0s70eamo7mg3bif2qc8rfrdb7er3emhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEF_i-KngvYohDJ4aEzGgpTCBDJJ50X08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208849096881-0s70eamo7mg3bif2qc8rfrdb7er3emhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
